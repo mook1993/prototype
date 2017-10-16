@@ -1,3 +1,10 @@
+title=About
+date=2013-09-24
+type=page
+status=published
+big=
+summary=
+~~~~~~
 ## Infrastructure > Object Storage > Release Notes
 
 ### 2017.03.23

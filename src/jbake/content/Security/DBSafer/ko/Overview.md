@@ -2,7 +2,7 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCSecurity
-summary=DBSaferOverview
+big=
+summary=
 ~~~~~~
 ## Security > DBSafer > Overview

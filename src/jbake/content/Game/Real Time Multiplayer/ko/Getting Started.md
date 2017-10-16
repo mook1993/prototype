@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCGame
-summary=TCGameRealtimeGetting
+big=
+summary=
 ~~~~~~
 ## Game > Real Time Multiplayer > Getting Started 
 

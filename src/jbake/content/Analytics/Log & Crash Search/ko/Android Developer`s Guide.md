@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCAnalytics
-summary=L&CAndroidDV's
+big=
+summary=
 ~~~~~~
 ## Analytics > Log&Crash Search > Android Developer's Guide
 

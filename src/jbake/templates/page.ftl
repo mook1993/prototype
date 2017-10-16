@@ -15,7 +15,6 @@
 		
 
 
-<<<<<<< HEAD
 	<div class="col-md-8 content-container" role="main"> 				
 		<script>
 			var str="${content.body?js_string}";
@@ -31,10 +30,7 @@
 			
 			document.write(addIdHtmlStr);
 		</script>			
-=======
-	<div class="col-md-8 content-container" role="main"> 			
-		${content.body}
->>>>>>> d4a8534b8fec04dc6900d62d457764dbf0a848c6
+
    	</div>
 
  	

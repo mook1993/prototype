@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCCommon
-summary=LaunchingDV's
+big=
+summary=
 ~~~~~~
 ## Common > Launching > Developer's Guide
 

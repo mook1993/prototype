@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCCommon
-summary=IAPAndroidDV's
+big=
+summary=
 ~~~~~~
 ## Common > IAP > Android Developer's Guide
 
@@ -198,7 +198,6 @@ InAppPurchases.InAppPurchase.queryItems(activity, new InAppPurchase.ItemListCall
 | Return Value | void |
 
 [Response Example]
-
 ```json
 [
     {

@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCCommon
-summary=IAPStoreinterlocking
+big=
+summary=
 ~~~~~~
 ## Common > IAP > Store interlocking information
 

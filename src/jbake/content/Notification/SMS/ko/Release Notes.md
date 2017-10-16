@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCNotification
-summary=SMSRelease
+big=
+summary=
 ~~~~~~
 ## Notification > SMS > Release Notes
 ### 2017.09.21

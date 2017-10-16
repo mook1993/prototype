@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCCommon
-summary=AdrDV's
+big=
+summary=
 ~~~~~~
 ## Common > Address Search > Developer's Guide
 

@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCGame
-summary=TCGameLeaderboardRelease
+big=
+summary=
 ~~~~~~
 ## Game > Leaderboard > Release Notes
 ### 2017.08.24

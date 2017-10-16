@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCAnalytics
-summary=L&CLogbackDV's
+big=
+summary=
 ~~~~~~
 ## Analytics > Log&Crash Search > Logback Developer's Guide
 

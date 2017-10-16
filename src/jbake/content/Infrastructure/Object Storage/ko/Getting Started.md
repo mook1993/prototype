@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-summary=TCobjectstorageGetting
-big=TCInfra
+big=
+summary=
 ~~~~~~
 ## Infrastructure > Object Storage > Getting Started
 
@@ -105,4 +105,3 @@ Serving HTTP on 0.0.0.0 port 80 ...
 
 ![[그림 8] 다운로드 링크 확인](http://static.toastoven.net/prod_infrastructure/object_storage/img_09.jpg)
 <center>[그림 8] 다운로드 링크 확인</center>
-

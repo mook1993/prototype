@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCNotification
-summary=AlimtalkRelease
+big=
+summary=
 ~~~~~~
 ## Notification > Alimtalk > Release Notes
 ### 2017.08.24

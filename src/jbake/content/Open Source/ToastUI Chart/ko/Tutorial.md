@@ -2,10 +2,9 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCOpensource
-summary=ToastUIChartTutorial
+big=
+summary=
 ~~~~~~
-
 ## Open Source > ToastUI Chart > Tutorial
 
 # Tutorial

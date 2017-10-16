@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCCommon
-summary=IAPServerDV's
+big=
+summary=
 ~~~~~~
 ## Common > IAP > Server Developer's Guide
 

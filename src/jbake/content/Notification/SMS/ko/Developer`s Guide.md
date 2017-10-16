@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCNotification
-summary=SMSDV's
+big=
+summary=
 ~~~~~~
 ## Notification > SMS > Developer's Guide
 

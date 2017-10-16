@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCNotification
-summary=EmailDV's
+big=
+summary=
 ~~~~~~
 ## Notification > Email > Developer's Guide
 
@@ -14,7 +14,6 @@ summary=EmailDV's
 |Real|	https://api-mail.cloud.toast.com |
 
 [Header]
-
 ```
 Content-Type: application/json;charset=UTF-8
 ```
@@ -1126,7 +1125,6 @@ Content-Type: application/json;charset=UTF-8
 | PUT |	/appKeys/{appKey}/block-receivers |
 
 [Request body]
-
 ```json
 {
   "deleted":Boolean,

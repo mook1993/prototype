@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCGame
-summary=TCGameRealtimeDV's
+big=
+summary=
 ~~~~~~
 ## Game > Real Time Multiplayer > Developer's Guide
 

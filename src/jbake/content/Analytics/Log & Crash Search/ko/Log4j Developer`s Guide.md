@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCAnalytics
-summary=L&CLog4jDV's
+big=
+summary=
 ~~~~~~
 ## Analytics > Log&Crash Search > Log4j Developer's Guide
 

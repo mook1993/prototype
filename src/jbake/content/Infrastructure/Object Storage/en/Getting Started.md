@@ -1,3 +1,10 @@
+title=About
+date=2013-09-24
+type=page
+status=published
+big=
+summary=
+~~~~~~
 ## Infrastructure > Object Storage > Getting Started
 
 Object Storage는 웹 콘솔을 이용해 파일 업/다운로드가 가능하여 확장 가능한 파일 서비스 구성이 가능합니다. 예를 들어 대용량 파일을 Object Storage에 저장하고 직접 파일을 배포하면, 웹 서버의 네트워크 부하와 디스크 용량 문제가 해결됩니다.

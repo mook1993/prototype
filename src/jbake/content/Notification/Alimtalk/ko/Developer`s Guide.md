@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCNotification
-summary=AlimtalkDV's
+big=
+summary=
 ~~~~~~
 ## Notification > Alimtalk > Developer's Guide
 
@@ -42,7 +42,6 @@ Content-Type: application/json;charset=UTF-8
 |appkey|	String|	고유의 appkey|
 
 [Header]
-
 ```
 {
   "X-Secret-Key": String

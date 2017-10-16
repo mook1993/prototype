@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCSecurity
-summary=SecurityCheckGetting
+big=
+summary=
 ~~~~~~
 ## Security > Security Check > Getting Started
 

@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCSecurity
-summary=SecurityMonitoringGetting
+big=
+summary=
 ~~~~~~
 ##  Security > Security Monitoring > Getting Started 
 

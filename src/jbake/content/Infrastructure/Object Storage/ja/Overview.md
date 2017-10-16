@@ -1,3 +1,10 @@
+title=About
+date=2013-09-24
+type=page
+status=published
+big=
+summary=
+~~~~~~
 ## Infrastructure > Object Storage > Overview
 
 Object Storage 는 다수의 대용량 파일을 저장할 수 있는 저장소 서비스입니다.

@@ -1,9 +1,9 @@
-﻿title=About
+title=About
 date=2013-09-24
 type=page
 status=published
-summary=TCcomputeNAS
-big=TCInfra
+big=
+summary=
 ~~~~~~
 ## Infrastructure > Compute & Network > NAS (Offline) User Guide
 ```

@@ -2,10 +2,9 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=TCOpensource
-summary=ToastUIEditorGettingStarted
+big=
+summary=
 ~~~~~~
-
 ## Open Source > ToastUI Editor > Getting Started
 
 You should load all JavaScript dependencies and CSS files in order to use TUI Editor.
