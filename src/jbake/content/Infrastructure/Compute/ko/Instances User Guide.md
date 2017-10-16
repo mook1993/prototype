@@ -1,9 +1,9 @@
-title=About
+﻿title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeInstancesUser
+big=TCInfra
 ~~~~~~
 ## Infrastructure > Compute & Network > Instances User Guide
 
@@ -139,3 +139,4 @@ RDP 파일을 실행하면 원격데스크톱 클라이언트를 통해 Windows 
 
 ![[그림 18 원격 데스크톱 접속 화면]](http://static.toastoven.net/prod_infrastructure/compute/instances/018_170523_800px.PNG)
 <center>[그림 18 원격 데스크톱 접속 화면]</center>
+

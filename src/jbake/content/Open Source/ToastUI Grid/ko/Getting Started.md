@@ -2,9 +2,10 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+big=TCOpensource
+summary=ToastUIGridGettingStarted
 ~~~~~~
+
 ## Open Source > ToastUI Grid > Getting Started
 
 # Getting Started

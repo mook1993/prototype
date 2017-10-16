@@ -1,10 +1,3 @@
-title=About
-date=2013-09-24
-type=page
-status=published
-big=
-summary=
-~~~~~~
 ## Infrastructure > Object Storage > Developer's Guide
 
 ## 사전 준비

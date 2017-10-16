@@ -1,9 +1,9 @@
-title=About
+﻿title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeNetworksUser
+big=TCInfra
 ~~~~~~
 ## Infrastructure > Compute & Network > Networks User Guide
 
@@ -274,3 +274,4 @@ Router를 삭제하기 위해서는 먼저 해당 Router에 추가된 Interface�
 
 ![[그림 26] 기본 보기 모드](http://static.toastoven.net/prod_infrastructure/compute/img_336.png)
 <center>[그림 26] 기본 보기 모드</center>
+

@@ -1,9 +1,9 @@
-title=About
+﻿title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeImagesUser
+big=TCInfra
 ~~~~~~
 ## Infrastructure > Compute & Network > Image User Guide
 
@@ -86,3 +86,4 @@ TOAST Cloud G 서비스는 이미지 공유 기능을 제공하지 않습니다.
 
 ![[그림 8] 공유한 Image확인](http://static.toastoven.net/prod_infrastructure/compute/img_265.png)
 <center>[그림 8] 공유한 Image확인</center>
+

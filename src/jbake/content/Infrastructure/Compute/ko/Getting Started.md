@@ -2,8 +2,8 @@ title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeGetting
+big=TCInfra
 ~~~~~~
 ## Infrastructure > Compute & Network > Getting Started
 

@@ -1,9 +1,9 @@
-title=About
+﻿title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeWindowSSH
+big=TCInfra
 ~~~~~~
 ## Infrastructure > Compute & Network > Windows SSH Guide
 

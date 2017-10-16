@@ -1,9 +1,9 @@
-title=About
+﻿title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeCIDR
+big=TCInfra
 ~~~~~~
 ## Infrastructure > Compute & Network > CIDR Guide
 
@@ -81,3 +81,4 @@ IP to CIDR : http://ip2cidr.com/
 |a.0.0.0**/2**|	+63.255.255.255|	192.000.000.000|	1,073,741,824|
 |a.0.0.0**/1**|	+127.255.255.255|	128.000.000.000|	2,147,483,648|
 |0.0.0.0**/0**|	+255.255.255.255|	000.000.000.000|	4,294,967,296|
+

@@ -1,10 +1,11 @@
-title=About
+﻿title=About
 date=2013-09-24
 type=page
 status=published
-big=
-summary=
+summary=TCcomputeLoadBalancers
+big=TCInfra
 ~~~~~~
+
 ## Infrastructure > Compute & Network > Load Balancers Guide Guide
 
 Load Balancer는 여러 대의 Instance에 Network 트래픽을 분산시키는 장비입니다. 사용자는 TOAST Cloud 웹 콘솔을 통해 Load Balancer를 생성한 뒤 여러 Instance를 연결하여 부하를 분산시킬 수 있습니다. 뿐만 아니라 고객이 설정한 health check 패턴에 따라 장애가 발생한 Instance를 자동으로 검출하여 트래픽을 분산 제어하기 때문에 HA상황에 대한 보완책으로서도 이용할 수 있습니다.
