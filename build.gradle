@@ -1,0 +1,48 @@
+buildscript {
+  repositories {
+    jcenter()
+  }
+
+  dependencies {
+    classpath "me.champeau.gradle:jbake-gradle-plugin:0.2"
+    classpath "org.jbake:jbake-core:2.5.0"
+    classpath "org.freemarker:freemarker:2.3.22"
+    classpath "org.pegdown:pegdown:1.5.0"
+  }
+}
+
+apply plugin: "me.champeau.jbake"
+
+jbake {
+   clearCache = true
+   def Date = getDate();
+   def branch=getWorkingBranch();
+   output = file('build/output'+Date+branch)
+}
+
+def getDate() {
+    def date = new Date()
+    def formattedDate = date.format('yyyyMMddHHmmss')
+    return formattedDate
+}
+
+task date(){
+def Date = getDate();
+System.out.println(getDate());
+}
+
+def getWorkingBranch() {
+    // Triple double-quotes for the breaklines
+    def workingBranch = """git --git-dir=${rootDir}/git
+                               --work-tree=${rootDir}/..
+                               rev-parse --abbrev-ref HEAD""".execute().text.trim()
+    print "Working branch: " + workingBranch
+    return workingBranch
+}
+
+def siteDir = "&buildDir/jbake"
+
+
+task clean(type: Delete) {
+  delete "build/jbake"
+}
