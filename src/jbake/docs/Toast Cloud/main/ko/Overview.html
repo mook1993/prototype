@@ -61,28 +61,44 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">TOAST Cloud <b class="caret"></b></a>
               <ul class="dropdown-menu">
 			<script>
-				//var elems = document.querySelectorAll("a[href=window.location.pathname]");
-				if(window.location.pathname=="/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Overview.html"){	
-					document.write("this page is overview");				
-					(document.querySelectorAll("a[href='/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Overview.html']"))[0].parentNode.className="active";
-			
-				}else if(window.location.pathname=="/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Getting%20Started.html"){
-					document.write("this page is getting started");					
-					(document.querySelectorAll("a[href='/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Getting Started.html']"))[0].parentNode.className="active";
-					
-				}else if(window.location.pathname=="/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Release%20Notes.html"){
-					document.write("this page is release notes");
-					(document.querySelectorAll("a[href='/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Release Notes.html']"))[0].parentNode.className="active";
-				}
+				/*
+				if(window.location.pathname=="/C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast%20Cloud/main/ko/Overview.html"){					
+					var elems=document.querySelectorAll("a[href='C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast Cloud/main/ko/Overview.html']");
+					var act=document.querySelectorAll("li.active");
+					act[0].className="";
+					elems[0].parentNode.className="active";			
+				}else if(window.location.pathname=="/C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast%20Cloud/main/ko/Getting%20Started.html"){			
+					var elems=document.querySelectorAll("a[href='C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast Cloud/main/ko/Getting Started.html']");
+					var act=document.querySelectorAll("li.active");
+					act[0].className="";
+					elems[0].parentNode.className="active";
+				}else if(window.location.pathname=="/C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast%20Cloud/main/ko/Release%20Notes.html"){
+					var elems=document.querySelectorAll("a[href='C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast Cloud/main/ko/Release Notes.html']");
+					var act=document.querySelectorAll("li.active");
+					act[0].className="";
+					elems[0].parentNode.className="active";
+				}*/
+				
+				var locationPath= window.location.pathname;
+				var locationPath2=locationPath.substring(1,locationPath.length);
+				var locationPath3=locationPath2.replace(/%20/g," ");
+				
+				var elems=document.querySelectorAll("a[href='"+locationPath3+"']");
+				
+				var act=document.querySelectorAll("li.active");
+				act[0].className="";
+				
+				elems[0].parentNode.className="active";
+				
 				//var elems = document.querySelectorAll("a[href='/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Release Notes.html']");	
 				//document.write(window.location.pathname);				
 				//elems[0].parentNode.className="active";
 				//(document.querySelectorAll("a[href='/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Release Notes.html']"))[0].parentNode.className="active";	
 					
 			</script>
-		      <li class="active"><a href="/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Overview.html">Overview</a></li>
-		      <li class=""><a href="/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Getting Started.html">Getting Started</a></li>
-		      <li class=""><a href="/home/mook/Desktop/prototype_dev/src/jbake/docs/Toast%20Cloud/main/ko/Release Notes.html">Release Notes</a></li>
+		      <li class="active"><a href="C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast Cloud/main/ko/Overview.html">Overview</a></li>
+		      <li><a href="C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast Cloud/main/ko/Getting Started.html">Getting Started</a></li>
+		      <li><a href="C:/Users/NHNEnt/Desktop/prototype/src/jbake/docs/Toast Cloud/main/ko/Release Notes.html">Release Notes</a></li>
               </ul>
 
 
