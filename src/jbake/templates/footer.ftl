@@ -62,6 +62,9 @@
 			}
 		}
 	}
+
+
+	// get current URL path and assign 'active' class
 	</script>
 	
      <!-- <script language='javascript'>

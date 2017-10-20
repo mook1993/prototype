@@ -2,8 +2,8 @@ title=TCrelease
 date=2013-09-24
 type=page
 status=published
-big=TCoverview
-summary=TCRelease
+big=
+summary=
 ~~~~~~
 ## TOAST Cloud > Release Notes
 ### 2017.09.21 
